@@ -1,4 +1,4 @@
-colorscheme-switcher <leader>1 :colorscheme carbonized-dark<CR>
+nnoremap <leader>1 :colorscheme carbonized-dark<CR>
 nnoremap <leader>2 :colorscheme github<CR>
 nnoremap <leader>3 :colorscheme 256_noir<CR>
 nnoremap <leader>4 :colorscheme afterglow<CR>
